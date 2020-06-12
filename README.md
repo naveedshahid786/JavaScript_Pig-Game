@@ -2,4 +2,4 @@
 JavaScript HTML5 CSS3 - Pig Game
 
 ### Game Preview
-![](Pig-Game.JPG)
+![](Pig-game.JPG)
